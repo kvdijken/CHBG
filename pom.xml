@@ -13,10 +13,10 @@
 	</parent>
 
 	<groupId>kvdijken</groupId>
-	<artifactId>CHBG</artifactId>
+	<artifactId>CHBG_</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 
-	<name>plugins/CHBG.jar</name>
+	<name>plugins/CHBG_.jar</name>
 	<description>Convex Hull Background Subtraction for ImageJ</description>
 
 	<developers>

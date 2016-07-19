@@ -22,8 +22,8 @@ import net.sf.jsi.Point;
 import net.sf.jsi.Rectangle;
 import net.sf.jsi.SpatialIndex;
 import net.sf.jsi.rtree.RTree;
-import quickhull3d.Point3d;
-import quickhull3d.QuickHull3D;
+import com.github.quickhull3d.Point3d;
+import com.github.quickhull3d.QuickHull3D;
 
 /**
  * 

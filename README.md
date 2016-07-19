@@ -15,13 +15,16 @@ but also
 This algorithm depends on
 
 QuickHull3d by Richard van Nieuwenhoven, see https://github.com/Quickhull3d/quickhull3d
+
 JSI by aled, see https://github.com/aled/jsi
 
 Sources for QuickHull3D and JSI are included in this distribution.
 
 Through dependencies of JSI it also needs the following jars
 
-trove_3.0.3.jar slf4j-api-1.5.11.jar slf4j-nop-1.5.6.jar 
+trove_3.0.3.jar
+slf4j-api-1.5.11.jar
+slf4j-nop-1.5.6.jar 
 
 These jars can be found on the web.
 
